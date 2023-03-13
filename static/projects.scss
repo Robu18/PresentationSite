@@ -1,0 +1,22 @@
+$color1: #18122B;
+$color2: #393053;
+$color3: #443C68;
+$font: 'Oswald', sans-serif;
+
+.menuel{
+    display: inline;
+    font-size:13px;
+}
+body{
+    text-align: center;
+    font-family: $font;
+    color: white;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right ,$color1, $color2, $color3);
+}
+.menuel:hover{
+    color:beige;
+}

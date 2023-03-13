@@ -1,0 +1,21 @@
+.menuel {
+  display: inline;
+  font-size: 13px;
+}
+
+body {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  color: white;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to right, #18122B, #393053, #443C68);
+}
+
+.menuel:hover {
+  color: beige;
+}
+
+/*# sourceMappingURL=index.css.map */
